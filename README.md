@@ -1,4 +1,4 @@
-# Information Spread Simulation
+# Information Retrieval Through Cooperation
 
 This repository contains a simulation of information spread across a network of agents using agent-based modeling. Each agent has a grid that represents their perception of information, which evolves over time based on interactions with other agents. The simulation explores how varying error rates affect the consensus and information propagation among agents.
 
