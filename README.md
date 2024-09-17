@@ -21,3 +21,8 @@ This repository contains a simulation of information spread across a network of 
 - **`InformationSpreadModel` Class**: Manages the simulation, including agent interactions, grid updates, and computation of metrics.
 - **Simulation Scripts**: Includes scripts to run the simulation and visualize results.
 
+## Concensus Strategy Performance Metric:
+
+<p float="left">
+  <img src="sample_outputs/metrics.png" alt="Accuracy Plot" width="400" />
+</p>
