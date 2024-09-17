@@ -4,7 +4,7 @@ This repository contains a simulation of information spread/retrieval across a n
 
 <p float="left">
   <img src="sample_outputs/Information_Flow.png" alt="Accuracy Plot" width="400" />
-  <img src="sample_outputs/ivsf.png" alt="ROC Curve" width="400" />
+  <img src="sample_outputs/ivsf.png" alt="ROC Curve" width="500" />
 </p>
 
 
@@ -24,5 +24,5 @@ This repository contains a simulation of information spread/retrieval across a n
 ## Concensus Strategy Performance Metric:
 
 <p float="left">
-  <img src="sample_outputs/metrics.png" alt="Accuracy Plot" width="400" />
+  <img src="sample_outputs/metrics.png" alt="Accuracy Plot" width="600" />
 </p>
